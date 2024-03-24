@@ -2,7 +2,6 @@ package com.example.picpayTransaction.domain.user;
 
 import jakarta.persistence.*;
 import lombok.*;
-import org.hibernate.usertype.UserType;
 
 import java.math.BigDecimal;
 
